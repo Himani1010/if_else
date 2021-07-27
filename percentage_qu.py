@@ -1,0 +1,7 @@
+class_held=int(input("enter a number"))
+class_attended=int(input("enter a number"))
+Percentage=class_attended/class_held*100
+if Percentage>=75:
+    print("you are allowed to sit in class")
+else:
+    print("not allowed in exam")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
